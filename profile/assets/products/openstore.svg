@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="OpenStore">
+  <defs>
+    <linearGradient id="prod-openstore" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#60A5FA"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+  </defs>
+  <!-- Open box outline -->
+  <path d="M8 18 L24 10 L40 18 L24 26 Z"
+        fill="none" stroke="url(#prod-openstore)" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M8 18 L8 32 L24 40 L24 26"
+        fill="none" stroke="url(#prod-openstore)" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M40 18 L40 32 L24 40"
+        fill="none" stroke="url(#prod-openstore)" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Center pulse (open source core) -->
+  <circle cx="24" cy="18" r="2.5" fill="url(#prod-openstore)"/>
+</svg>
