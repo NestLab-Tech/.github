@@ -6,8 +6,8 @@
 
 **A founder-led AI studio in Poland. Four flagship SaaS products, one open-source project, AI automation services.**
 
-<a href="https://nestlab.tech?utm_source=nestlab&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme"><img src="assets/badge-brand.svg" alt="NestLab Tech" height="28"></a>
-<a href="https://nestlab.tech/book-a-call?utm_source=nestlab&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme"><img src="assets/badge-cta.svg" alt="Free 30-minute call" height="28"></a>
+<a href="https://nestlab.tech?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme"><img src="assets/badge-brand.svg" alt="NestLab Tech" height="28"></a>
+<a href="https://nestlab.tech/book-a-call?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme"><img src="assets/badge-cta.svg" alt="Free 30-minute call" height="28"></a>
 
 </div>
 
@@ -20,7 +20,7 @@
 ## What we do
 
 Four ways to work with us. Each one starts with a few sentences about the problem.
-Detail on [nestlab.tech/services](https://nestlab.tech/services?utm_source=nestlab&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme).
+Detail on [nestlab.tech/services](https://nestlab.tech/services?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme).
 
 | Service | What it is |
 |---|---|
@@ -34,15 +34,15 @@ Detail on [nestlab.tech/services](https://nestlab.tech/services?utm_source=nestl
 ## The portfolio
 
 Four products under our own brand, plus the open-source project they are built on.
-Dated case studies on [nestlab.tech/work](https://nestlab.tech/work?utm_source=nestlab&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme).
+Dated case studies on [nestlab.tech/work](https://nestlab.tech/work?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme).
 
 | | Product | What it does | Status |
 |---|---|---|---|
-| <img src="assets/products/euaigap.svg" width="30" alt=""> | [**EU AI Act Scanner**](https://nestlab.tech/products/euaigap?utm_source=nestlab&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) | Automated EU AI Act (Regulation 2024/1689) compliance assessment: 5-tier risk classification, 8-area scoring, 4 generated compliance documents. | Live |
-| <img src="assets/products/propvectorai.svg" width="30" alt=""> | [**PropVector AI**](https://nestlab.tech/products/propvectorai?utm_source=nestlab&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) | Commercial AI real-estate SaaS. ChromaDB vector search, MLS integration, 9 languages, ROI / CMA valuation, multi-year price forecast. In development. | In development |
-| <img src="assets/products/checkcv.svg" width="30" alt=""> | [**CheckCV**](https://nestlab.tech/products/checkcv?utm_source=nestlab&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) | Professional CV analysis for recruiting teams. Multi-format parsing, AI scoring, weighted rubric, candidate pipeline, white-label branding. In development. | In development |
-| <img src="assets/products/tunecv.svg" width="30" alt=""> | [**TuneCV**](https://nestlab.tech/products/tunecv?utm_source=nestlab&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) | AI-powered resume optimization for job seekers. ATS scoring, AI suggestions, cover-letter generation, interview prep, application tracker. In development. | In development |
-| <img src="assets/products/openstore.svg" width="30" alt=""> | [**OpenStore**](https://nestlab.tech/products/openstore?utm_source=nestlab&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) | Open-source AI real-estate search, MIT licensed. RAG with ChromaDB, 16 LLM providers, 9 languages. The open-source sibling of PropVector AI. | MIT |
+| <img src="assets/products/euaigap.svg" width="30" alt=""> | [**EU AI Act Scanner**](https://nestlab.tech/products/euaigap?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) | Automated EU AI Act (Regulation 2024/1689) compliance assessment: 5-tier risk classification, 8-area scoring, 4 generated compliance documents. | Live |
+| <img src="assets/products/propvectorai.svg" width="30" alt=""> | [**PropVector AI**](https://nestlab.tech/products/propvectorai?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) | Commercial AI real-estate SaaS. ChromaDB vector search, MLS integration, 9 languages, ROI / CMA valuation, multi-year price forecast. In development. | In development |
+| <img src="assets/products/checkcv.svg" width="30" alt=""> | [**CheckCV**](https://nestlab.tech/products/checkcv?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) | Professional CV analysis for recruiting teams. Multi-format parsing, AI scoring, weighted rubric, candidate pipeline, white-label branding. In development. | In development |
+| <img src="assets/products/tunecv.svg" width="30" alt=""> | [**TuneCV**](https://nestlab.tech/products/tunecv?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) | AI-powered resume optimization for job seekers. ATS scoring, AI suggestions, cover-letter generation, interview prep, application tracker. In development. | In development |
+| <img src="assets/products/openstore.svg" width="30" alt=""> | [**OpenStore**](https://nestlab.tech/products/openstore?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) | Open-source AI real-estate search, MIT licensed. RAG with ChromaDB, 16 LLM providers, 9 languages. The open-source sibling of PropVector AI. | MIT |
 
 ---
 
@@ -99,6 +99,6 @@ The stack the open-source project runs on, mirrored from its own Tech Stack tabl
 
 **Bring the real problem — we size it live.**
 
-[Free 30-minute call](https://nestlab.tech/book-a-call?utm_source=nestlab&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) &middot; [Start a project](https://nestlab.tech/contact?utm_source=nestlab&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) &middot; [nestlab.tech](https://nestlab.tech?utm_source=nestlab&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme)
+[Free 30-minute call](https://nestlab.tech/book-a-call?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) &middot; [Start a project](https://nestlab.tech/contact?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) &middot; [nestlab.tech](https://nestlab.tech?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme)
 
 ---
