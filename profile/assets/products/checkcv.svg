@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="CheckCV">
+  <defs>
+    <linearGradient id="prod-checkcv" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#60A5FA"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+  </defs>
+  <!-- Document outline -->
+  <rect x="12" y="6" width="24" height="36" rx="2" fill="none" stroke="url(#prod-checkcv)" stroke-width="2.5"/>
+  <!-- Lines (representing CV rows) -->
+  <line x1="17" y1="14" x2="31" y2="14" stroke="url(#prod-checkcv)" stroke-width="2" stroke-linecap="round"/>
+  <line x1="17" y1="20" x2="27" y2="20" stroke="url(#prod-checkcv)" stroke-width="2" stroke-linecap="round"/>
+  <line x1="17" y1="26" x2="31" y2="26" stroke="url(#prod-checkcv)" stroke-width="2" stroke-linecap="round"/>
+  <line x1="17" y1="32" x2="24" y2="32" stroke="url(#prod-checkcv)" stroke-width="2" stroke-linecap="round"/>
+  <!-- Magnifier overlay -->
+  <circle cx="34" cy="34" r="5" fill="none" stroke="url(#prod-checkcv)" stroke-width="2.5"/>
+  <line x1="37.5" y1="37.5" x2="42" y2="42" stroke="url(#prod-checkcv)" stroke-width="2.5" stroke-linecap="round"/>
+</svg>
