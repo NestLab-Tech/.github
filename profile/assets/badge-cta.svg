@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="173" height="28" viewBox="0 0 173 28" role="img" aria-label="Free 30-minute call">
+  <defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#60A5FA"/><stop offset="100%" stop-color="#A78BFA"/>
+  </linearGradient></defs>
+  <rect width="173" height="28" rx="6" fill="url(#g)"/>
+  <text x="86" y="19" text-anchor="middle" font-family="Inter, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#05070C" textLength="137" lengthAdjust="spacingAndGlyphs">Free 30-minute call</text>
+</svg>
