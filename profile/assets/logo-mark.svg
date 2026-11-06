@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="NestLab Tech mark">
+  <title>NestLab Tech mark</title>
+  <defs>
+    <linearGradient id="brand-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <!-- Outer hexagon: stroke only -->
+  <polygon points="128,28 214.6,78 214.6,178 128,228 41.4,178 41.4,78"
+           fill="none" stroke="url(#brand-grad)" stroke-width="14" stroke-linejoin="round"/>
+  <!-- Middle hexagon: stroke only -->
+  <polygon points="128,63 184.3,95.5 184.3,160.5 128,193 71.7,160.5 71.7,95.5"
+           fill="none" stroke="url(#brand-grad)" stroke-width="11" stroke-linejoin="round"/>
+  <!-- Inner hexagon: solid fill -->
+  <polygon points="128,96 155.7,112 155.7,144 128,160 100.3,144 100.3,112"
+           fill="url(#brand-grad)"/>
+</svg>
