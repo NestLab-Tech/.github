@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="211" height="28" viewBox="0 0 211 28" role="img" aria-label="NestLab Tech">
+  <defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#60A5FA"/><stop offset="100%" stop-color="#A78BFA"/>
+  </linearGradient></defs>
+  <rect width="211" height="28" rx="6" fill="#0E1119"/>
+  <text x="14" y="19" font-family="Inter, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="url(#g)" textLength="91" lengthAdjust="spacingAndGlyphs">NestLab Tech</text>
+  <text x="197" y="19" text-anchor="end" font-family="Inter, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94A3B8" textLength="72" lengthAdjust="spacingAndGlyphs">nestlab.tech</text>
+</svg>
