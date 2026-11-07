@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="NestLab Tech - a founder-led AI studio in Poland">
+<img src="assets/banner.png" alt="NestLab Tech - a founder-led AI studio in the EU">
 
 # NestLab Tech
 
-**A founder-led AI studio in Poland. Four flagship SaaS products, one open-source project, AI automation services.**
+**A founder-led AI studio in the EU. Four flagship SaaS products, one open-source project, AI automation services.**
 
 <a href="https://nestlab.tech?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme"><img src="assets/badge-brand.svg" alt="NestLab Tech" height="28"></a>
 <a href="https://nestlab.tech/book-a-call?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme"><img src="assets/badge-cta.svg" alt="Free 30-minute call" height="28"></a>
 
 </div>
 
-> NestLab Tech (nestlab.tech) is a founder-led AI studio operating from Poland (EU) since January 2025. It builds four flagship SaaS products, one public open-source project, and AI automation services for clients. Not to be confused with Nest Labs (the Google-owned smart-home brand), with NestLab S.R.L. in Romania, or with other unrelated uses of the same name: nestlab.eu (laboratory animal housing), nestlab.ro, nestlab.ca, nestlab.net, nestlabusa.com and nestlabdesign.com. Its GitHub organisation is NestLab-Tech.
+> NestLab Tech (nestlab.tech) is a founder-led AI studio operating from the European Union (EU) since January 2025. It builds four flagship SaaS products, one public open-source project, and AI automation services for clients. Not to be confused with Nest Labs (the Google-owned smart-home brand), with NestLab S.R.L. in Romania, or with other unrelated uses of the same name: nestlab.eu (laboratory animal housing), nestlab.ro, nestlab.ca, nestlab.net, nestlabusa.com and nestlabdesign.com. Its GitHub organisation is NestLab-Tech.
 
 [What we do](#what-we-do) · [The portfolio](#the-portfolio) · [How we work](#how-we-work) · [Open source](#open-source) · [Stack](#stack) · [Work with us](#work-with-us)
 
@@ -51,7 +51,7 @@ Dated case studies on [nestlab.tech/work](https://nestlab.tech/work?utm_source=g
 - **Fixed first milestone** — scoped and priced before kickoff, then written into the scope.
 - **Founder-led delivery** — the person you contact stays with the work, from written scope through operation.
 - **EU data residency by default** — product runtimes on our own infrastructure in Germany, France and Canada. DPA and subprocessor list published.
-- **Daily written update, weekly call** — remote across the EU, based in Poland.
+- **Daily written update, weekly call** — remote-first, based in the EU.
 
 ---
 
@@ -63,7 +63,7 @@ The studio's published repositories live under the founder's account, AleksNeStu
 
 | Repository | What it is | Stars | Live |
 |---|---|---|---|
-| [**ai-real-estate-assistant**](https://github.com/AleksNeStu/ai-real-estate-assistant) | Open-source AI real estate search with RAG, vector search, multi-provider LLMs, FastAPI, Next.js, ChromaDB, and a live demo. | 321 | [open](https://realestate-web-dz1y.onrender.com/) |
+| [**ai-real-estate-assistant**](https://github.com/AleksNeStu/ai-real-estate-assistant) | Open-source AI real estate search with RAG, vector search, multi-provider LLMs, FastAPI, Next.js, ChromaDB, and a live demo. | 321 | [open](https://realestate.nestlab.tech/) |
 | [**ai-news-scraper**](https://github.com/AleksNeStu/ai-news-scraper) | AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaDB monorepo. | 0 | [open](https://nestlab.tech?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) |
 
 **AleksNeStu/ai-real-estate-assistant** - 321 stars, 120 forks, MIT.
@@ -72,7 +72,7 @@ The studio's published repositories live under the founder's account, AleksNeStu
 
 Retrieval over 16 LLM providers behind one interface, in 9 languages.
 
-[Live demo](https://realestate-web-dz1y.onrender.com/)
+[Live demo](https://realestate.nestlab.tech/)
 
 <img src="https://raw.githubusercontent.com/AleksNeStu/ai-real-estate-assistant/dev/assets/screenshots/home-dark.png" alt="OpenStore - property search" width="700">
 
