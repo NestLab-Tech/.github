@@ -42,7 +42,7 @@ Dated case studies on [nestlab.tech/work](https://nestlab.tech/work?utm_source=g
 | <img src="assets/products/propvectorai.svg" width="30" alt=""> | [**PropVector AI**](https://nestlab.tech/products/propvectorai?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) | Commercial AI real-estate SaaS. ChromaDB vector search, MLS integration, 9 languages, ROI / CMA valuation, multi-year price forecast. In development. | In development |
 | <img src="assets/products/checkcv.svg" width="30" alt=""> | [**CheckCV**](https://nestlab.tech/products/checkcv?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) | Professional CV analysis for recruiting teams. Multi-format parsing, AI scoring, weighted rubric, candidate pipeline, white-label branding. In development. | In development |
 | <img src="assets/products/tunecv.svg" width="30" alt=""> | [**TuneCV**](https://nestlab.tech/products/tunecv?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) | AI-powered resume optimization for job seekers. ATS scoring, AI suggestions, cover-letter generation, interview prep, application tracker. In development. | In development |
-| <img src="assets/products/openstore.svg" width="30" alt=""> | [**OpenStore**](https://nestlab.tech/products/openstore?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) | Open-source AI real-estate search, MIT licensed. RAG with ChromaDB, 16 LLM providers, 9 languages. The open-source sibling of PropVector AI. | MIT |
+| <img src="assets/products/openstore.svg" width="30" alt=""> | [**OpenStore**](https://nestlab.tech/products/openstore?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) | Open-source AI real-estate search, MIT licensed. RAG with ChromaDB, 17 LLM providers, 9 languages. The open-source sibling of PropVector AI. | MIT |
 
 ---
 
@@ -63,16 +63,14 @@ The studio's published repositories live under the founder's account, AleksNeStu
 
 | Repository | What it is | Stars | Live |
 |---|---|---|---|
-| [**ai-real-estate-assistant**](https://github.com/AleksNeStu/ai-real-estate-assistant) | Open-source AI real estate search with RAG, vector search, multi-provider LLMs, FastAPI, Next.js, ChromaDB, and a live demo. | 321 | [open](https://realestate.nestlab.tech/) |
+| [**ai-real-estate-assistant**](https://github.com/AleksNeStu/ai-real-estate-assistant) | Open-source AI real estate assistant: RAG + vector search over your own listings, 17 LLM providers, FastAPI + Next.js. Run it on your own server with Docker, or try the live demo. | 326 | [open](https://realty.kittray.com) |
 | [**ai-news-scraper**](https://github.com/AleksNeStu/ai-news-scraper) | AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaDB monorepo. | 0 | [open](https://nestlab.tech?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) |
 
-**AleksNeStu/ai-real-estate-assistant** - 321 stars, 120 forks, MIT.
+**AleksNeStu/ai-real-estate-assistant** - 326 stars, 120 forks, MIT.
 
-**AI-powered conversational platform for property search, analytics, and market insights.** Ask in natural language — *"2-bedroom apartment in Kraków under 500k"* — get matched listings. Try the live demo below, no signup needed.
+Retrieval over 17 LLM providers behind one interface, in 9 languages.
 
-Retrieval over 16 LLM providers behind one interface, in 9 languages.
-
-[Live demo](https://realestate.nestlab.tech/)
+[Live demo](https://realty.kittray.com)
 
 <img src="https://raw.githubusercontent.com/AleksNeStu/ai-real-estate-assistant/dev/assets/screenshots/home-dark.png" alt="OpenStore - property search" width="700">
 
@@ -84,14 +82,13 @@ The stack the open-source project runs on, mirrored from its own Tech Stack tabl
 
 | Layer | Technology |
 |---|---|
-| Backend API | FastAPI (Python 3.12+) |
-| Frontend | Next.js 16 + React 19 |
+| Backend API | FastAPI (Python `3.12+`) |
+| Frontend | Next.js `16` + React `19` |
 | Vector DB | ChromaDB (semantic search + MMR reranking) |
 | Relational DB | PostgreSQL / SQLite |
-| LLM Providers | OpenAI, Anthropic, Google, Grok, DeepSeek, OpenRouter, Together AI, Fireworks AI, HuggingFace, Groq, Mistral, Qwen, ZAI, Moonshot, OpenCode, local Ollama |
+| LLM providers | OpenAI, Anthropic, Google, Grok, DeepSeek, MiniMax, OpenRouter, Together AI, Fireworks AI, HuggingFace, Groq, Mistral, Qwen, ZAI, Moonshot, OpenCode, local Ollama |
 | Container | Docker / Docker Compose |
-| Hosting (staging) | Render free tier |
-| CI/CD | GitHub Actions (CI + GHCR + Render deploy) |
+| CI/CD | GitHub Actions (CI, GHCR images, deploy) |
 | Monitoring | Uptime Kuma + structured logs |
 
 ---
